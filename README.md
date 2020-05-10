@@ -1,3 +1,5 @@
+## Credit: https://github.com/hunglc007/tensorflow-yolov4-tflite
+
 # tensorflow-yolov4-tflite
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
